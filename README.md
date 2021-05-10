@@ -1,4 +1,4 @@
-##  Hi , my name is Cole Thomas Winslow 🚀.  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColeThomasWinslow&theme=blue-green)](https://github.com/ColeThomasWinslow/github-readme-stats)
+##  Hi , my name is Cole Thomas Winslow 🚀.  
 
 ### <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ LinkedIn ]</a>  <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ Portfolio Website ]</a>
 
@@ -10,7 +10,7 @@
 
 <img src="Mern.jpeg" alt="M.E.R.N" width="200"/>
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColeThomasWinslow&theme=blue-green)](https://github.com/ColeThomasWinslow/github-readme-stats)
+[![Coles top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColeThomasWinslow&theme=blue-green)](https://github.com/ColeThomasWinslow/github-readme-stats)
 
 
 <p>Using all of theses tools I create interactive full stack web applications that are also mobile responsive!</p>
