@@ -4,13 +4,16 @@
 
     
 ## Welcome to My GitHub 👾
+
+[![ColeThomasWinslow github streak](https://github-readme-streak-stats.herokuapp.com/?user=ColeThomasWinslow&theme=blue-green)](https://github.com/ColeThomasWinslow/github-readme-streak-stats)
+
 <h3>Im a Javascript Web Developer based out of Phoenix Arizona, I develop out of a M.E.R.N. Stack which means I use theses programs</h3>
 
 (Mongo) (Express) (React) (Node)
 
 <img src="Mern.jpeg" alt="M.E.R.N" width="200"/>
 
-[![ColeThomasWinslow github streak](https://github-readme-streak-stats.herokuapp.com/?user=ColeThomasWinslow&theme=blue-green)](https://github.com/ColeThomasWinslow/github-readme-streak-stats)
+
 
 
 
