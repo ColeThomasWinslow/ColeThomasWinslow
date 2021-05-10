@@ -14,4 +14,4 @@
 
 <p>Using all of theses tools I create interactive full stack web applications that are also mobile responsive!</p>
 
-<p>⬇️ {""}Check out all my Pinned Repositories Below ⬇️</p>
+<p> ⬇️  Check out all my Pinned Repositories Below ⬇️</p>
