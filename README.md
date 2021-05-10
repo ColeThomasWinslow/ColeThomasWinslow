@@ -1,4 +1,4 @@
-<h1> Hi , My Name is Cole Thomas Winslow 🚀<h1/>
+<h3> Hi , My Name is Cole Thomas Winslow 🚀<h3/>
   
    <h5><a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">LinkedIn</a> </h5>
     <h5>  <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">Portfolio Website</a> </h5>
@@ -11,6 +11,6 @@
 (Mongo) (Express) (React) (Node)
 
 
-
-
 <p>Using all of theses tools I create interactive full stack web applications that are also mobile responsive!</p>
+
+<p>Check out all my Pinned Repositories Below ⬇️</p>
