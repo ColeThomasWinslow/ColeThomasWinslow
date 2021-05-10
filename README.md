@@ -1,5 +1,4 @@
 <h1> Hi , My Name is Cole Thomas Winslow 🚀<h1/>
-  
 ### <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ LinkedIn ]</a>  <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ Portfolio Website ]</a>
 
     
