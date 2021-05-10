@@ -1,4 +1,5 @@
-##  Hi , my name is Cole Thomas Winslow 🚀
+##  Hi , my name is Cole Thomas Winslow 🚀.  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 ### <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ LinkedIn ]</a>  <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ Portfolio Website ]</a>
 
     
