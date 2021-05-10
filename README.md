@@ -5,7 +5,7 @@
 
 <img src="Mern.jpeg" alt="M.E.R.N" width="300"/>
 
-Mongo Express React Node
+(Mongo) (Express) (React) (Node)
 
 
 
