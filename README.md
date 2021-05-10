@@ -10,7 +10,8 @@
 
 <img src="Mern.jpeg" alt="M.E.R.N" width="200"/>
 
-[![Coles top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColeThomasWinslow&theme=blue-green)](https://github.com/ColeThomasWinslow/github-readme-stats)
+[![ColeThomasWinslow github streak](https://github-readme-streak-stats.herokuapp.com/?user=ColeThomasWinslow&theme=blue-green)](https://github.com/ColeThomasWinslow/github-readme-streak-stats)
+
 
 
 <p>Using all of theses tools I create interactive full stack web applications that are also mobile responsive!</p>
