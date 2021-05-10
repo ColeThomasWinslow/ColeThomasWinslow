@@ -3,7 +3,7 @@
 ### <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ LinkedIn ]</a>  <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ Portfolio Website ]</a>
 
     
-## Welcome to My GitHub 👾
+### Welcome to My GitHub 👾
 
 [![ColeThomasWinslow github streak](https://github-readme-streak-stats.herokuapp.com/?user=ColeThomasWinslow&theme=blue-green)](https://github.com/ColeThomasWinslow/github-readme-streak-stats)
 
