@@ -1,5 +1,5 @@
 <h1> Hi , My Name is Cole Thomas Winslow 🚀<h1/>
-
+<a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">LinkedIn</a>
 ## Welcome to My GitHub 👾
 <h3>Im a Javascript Web Developer based out of Phoenix Arizona, I develop out of a M.E.R.N. Stack which means I use theses programs</h3>
 
