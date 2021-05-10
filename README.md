@@ -7,6 +7,7 @@
 <h3>Im a Javascript Web Developer based out of Phoenix Arizona, I develop out of a M.E.R.N. Stack which means I use theses programs</h3>
 
 (Mongo) (Express) (React) (Node)
+
 <img src="Mern.jpeg" alt="M.E.R.N" width="250"/>
 
 
