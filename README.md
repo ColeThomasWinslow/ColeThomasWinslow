@@ -7,7 +7,7 @@
 
 (Mongo) (Express) (React) (Node)
 
-<img src="Mern.jpeg" alt="M.E.R.N" width="250"/>
+<img src="Mern.jpeg" alt="M.E.R.N" width="200"/>
 
 
 
