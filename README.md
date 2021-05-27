@@ -1,6 +1,6 @@
 ###  Hi , my name is Cole Thomas Winslow 🚀.  
 
-### <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ LinkedIn ]</a>  <a href="https://portfoliowinslow.herokuapp.com/">[ Portfolio Website ]</a>
+### <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ LinkedIn ]</a>  <a target="blank"href="https://portfoliowinslow.herokuapp.com/">[ Portfolio Website ]</a>
 
     
 ### Welcome to My GitHub 👾
