@@ -1,4 +1,4 @@
-###  Hi , my name is Cole Thomas Winslow 🚀.  
+###  Hi , my name is Cole Winslow 🚀.  
 
 ### <a href="https://www.linkedin.com/in/cole-winslow-8a2a0b206/">[ LinkedIn ]</a>  <a target="blank" href="https://colewinslowportfolio.netlify.app/">[ Portfolio Website ]</a>
 
