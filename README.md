@@ -12,4 +12,4 @@
 #### Check me out at Other Places on the Web
  <a href="https://www.linkedin.com/in/cole-winslow/">[ LinkedIn ]</a><a target="blank" href="https://colewinslowportfolio.netlify.app/">[ Portfolio Website ]</a>
 
-#####  View all my Pinned Repositories Below ⬇️
+##### ⬇️ View all my Pinned Repositories Below ⬇️
