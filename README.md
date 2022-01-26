@@ -11,7 +11,9 @@
                                                                                                                               
 </div>
 
-#### Check me out at Other Places on the Web
+#### Check me out at other places on the web
+<div style="display:flex; justify-content:space-evenly; flex-wrap:wrap;">
  <a href="https://www.linkedin.com/in/cole-winslow/">[ LinkedIn ]</a><a target="blank" href="https://colewinslowportfolio.netlify.app/">[ Portfolio Website ]</a>
+</div>
 
-##### ⬇️ View all my Pinned Repositories Below ⬇️
+##### ⬇️ View all my pinned repositories Below ⬇️
