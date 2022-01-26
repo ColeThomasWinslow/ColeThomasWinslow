@@ -12,7 +12,7 @@
 </div>
 
 #### Check me out at other places on the web
-<div style="display:flex; justify-content:space-evenly; flex-wrap:wrap;">
+<div style="display:flex; justify-content:space-evenly; flex-wrap:wrap; width:100%;">
  <a href="https://www.linkedin.com/in/cole-winslow/">[ LinkedIn ]</a><a target="blank" href="https://colewinslowportfolio.netlify.app/">[ Portfolio Website ]</a>
 </div>
 
