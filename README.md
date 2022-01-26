@@ -16,4 +16,4 @@
  <a href="https://www.linkedin.com/in/cole-winslow/">[ LinkedIn ]</a><a target="blank" href="https://colewinslowportfolio.netlify.app/">[ Portfolio Website ]</a>
 </div>
 
-##### ⬇️ View all my pinned repositories Below ⬇️
+##### ⬇️ View all my pinned repositories Below  ⬇️
